@@ -1,4 +1,4 @@
-# Advik-DSML
+# Shirin-DSML
 
 Mini project for **Data Science and Machine Learning**.
 
