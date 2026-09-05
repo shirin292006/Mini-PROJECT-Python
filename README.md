@@ -2,8 +2,8 @@
 
 Mini project for **Data Science and Machine Learning**.
 
-**Student:** Advik Singh  
-**Registration number:** Ra2411056030023
+**Student:** Shirin Bhattacharjee  
+**Registration number:** Ra2411056030047
 
 ## Project
 

@@ -42,8 +42,8 @@ NOTEBOOK_PATH = ROOT / "MiniProject_COVID19_nCoV_EDA.ipynb"
 PDF_PATH = ROOT / "MiniProject_COVID19_nCoV_EDA_Report.pdf"
 CLEANED_PATH = ROOT / "cleaned_ncov_summary.csv"
 
-STUDENT = "Advik Singh"
-REG_NO = "Ra2411056030023"
+STUDENT = "Shirin Bhattacharjee"
+REG_NO = "Ra2411056030047"
 
 NAVY = "#0F2C59"
 BLUE = "#2563eb"
